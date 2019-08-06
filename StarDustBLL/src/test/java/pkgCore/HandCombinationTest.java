@@ -136,8 +136,7 @@ public class HandCombinationTest {
 		} catch (NoSuchMethodException e) {
 			fail("No Such Method Exception Thrown");
 		} catch (InvocationTargetException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
+			fail("Invocation Exception Thrown");
 		}
 		return (GamePlay) oGamePlay;
 

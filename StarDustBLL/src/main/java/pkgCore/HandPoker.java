@@ -287,7 +287,6 @@ public class HandPoker extends Hand implements Comparable {
 	}
 
 	private boolean isFourOfAKind() {
-		// TODO: FIx this
 		boolean bisFourOfAKind = false;
 
 		if ((GetCRCSize() == eRowCount.TWO.getiRowCountItems())
