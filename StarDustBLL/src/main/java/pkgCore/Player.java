@@ -28,6 +28,8 @@ public class Player {
 	public void setPlayerName(String playerName) {
 		//FIXME: Set the player name
 		// PlayerName = 
+		
+		//
 	}
 
 	public UUID getPlayerID() {
