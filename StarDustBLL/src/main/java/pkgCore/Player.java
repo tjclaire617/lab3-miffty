@@ -20,16 +20,13 @@ public class Player {
 	}
 
 	public String getPlayerName() {
-		//FIXME: Get the player name (do not return null); - DONE
+		// done FIXME: Get the player name (do not return null); - DONE
 		
 		return PlayerName;
 	}
 
 	public void setPlayerName(String playerName) {
-		//FIXME: Set the player name
-		// PlayerName = 
-		
-		//
+		PlayerName = playerName;
 	}
 
 	public UUID getPlayerID() {

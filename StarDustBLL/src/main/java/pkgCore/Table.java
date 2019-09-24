@@ -20,7 +20,6 @@ public class Table {
 	 * 
 	 * TableName - Name of the table
 	 */
-	// COMMENT TEST
 	private String TableName;
 	
 	/**
@@ -70,7 +69,6 @@ public class Table {
 	public void AddPlayerToTable(Player player)
 	{
 		//FIXME: Add a player to the table
-		// ADD PLAYER NAME
 	}
 	
 	/**
