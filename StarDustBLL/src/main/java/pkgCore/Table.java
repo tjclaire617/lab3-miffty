@@ -20,6 +20,10 @@ public class Table {
 	 * 
 	 * TableName - Name of the table
 	 */
+<<<<<<< HEAD
+=======
+	// COMMENT
+>>>>>>> branch 'master' of https://github.com/tyyates99/CISC181-LAB3
 	private String TableName;
 	
 	/**
@@ -94,8 +98,8 @@ public class Table {
 	 */
 	public ArrayList<Player> getTablePlayers()
 	{
-		//FIXME: This should return the TablePlayers (don't return null).
-		return null;
+		//FIXME: This should return the TablePlayers (don't return null).-DONE
+		return TablePlayers;
 	}
 
 }
