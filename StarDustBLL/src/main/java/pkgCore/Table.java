@@ -20,7 +20,7 @@ public class Table {
 	 * 
 	 * TableName - Name of the table
 	 */
-	// COMMENT TEST
+	// COMMENT
 	private String TableName;
 	
 	/**
