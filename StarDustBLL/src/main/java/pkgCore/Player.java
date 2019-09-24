@@ -12,6 +12,7 @@ public class Player {
 		PlayerID = playerID;
 		PlayerName = playerName;
 	}
+	
 		
 	public Player(String playerName) {
 		this.PlayerID = UUID.randomUUID();
