@@ -20,9 +20,6 @@ public class Table {
 	 * 
 	 * TableName - Name of the table
 	 */
-<<<<<<< HEAD
-=======
->>>>>>> branch 'master' of https://github.com/tyyates99/CISC181-LAB3
 	private String TableName;
 	
 	/**
