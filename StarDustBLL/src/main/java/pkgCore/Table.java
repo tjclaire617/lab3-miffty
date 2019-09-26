@@ -22,7 +22,6 @@ public class Table {
 	 */
 <<<<<<< HEAD
 =======
-	// COMMENT
 >>>>>>> branch 'master' of https://github.com/tyyates99/CISC181-LAB3
 	private String TableName;
 	
@@ -59,6 +58,7 @@ public class Table {
 	 */
 	public void SetTablePlayers(ArrayList<Player> Players)
 	{
+		
 		//FIXME: clear the table and add all the players.
 	}
 	
@@ -85,7 +85,7 @@ public class Table {
 	 */
 	public void RemovePlayerFromTable(Player p)
 	{
-		//FIXME: Remove a player from the table
+		TablePlayers.remove(p);
 	}
 	
 	/**
