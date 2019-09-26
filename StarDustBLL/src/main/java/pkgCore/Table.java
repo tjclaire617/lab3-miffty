@@ -98,7 +98,6 @@ public class Table {
 	 */
 	public ArrayList<Player> getTablePlayers()
 	{
-		//FIXME: This should return the TablePlayers (don't return null).-DONE
 		return TablePlayers;
 	}
 
