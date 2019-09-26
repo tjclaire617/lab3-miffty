@@ -20,8 +20,6 @@ public class Player {
 	}
 
 	public String getPlayerName() {
-		// done FIXME: Get the player name (do not return null); - DONE
-		
 		return PlayerName;
 	}
 

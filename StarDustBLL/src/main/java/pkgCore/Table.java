@@ -72,7 +72,7 @@ public class Table {
 	 */
 	public void AddPlayerToTable(Player player)
 	{
-		//FIXME: Add a player to the table
+		TablePlayers.add(player);
 	}
 	
 	/**
