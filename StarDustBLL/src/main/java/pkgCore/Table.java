@@ -55,8 +55,8 @@ public class Table {
 	 */
 	public void SetTablePlayers(ArrayList<Player> Players)
 	{
-		
-		//FIXME: clear the table and add all the players.
+		TablePlayers.clear();
+		TablePlayers.addAll(Players);
 	}
 	
 	/**
